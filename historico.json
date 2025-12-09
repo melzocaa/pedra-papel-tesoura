@@ -1,0 +1,20 @@
+[
+  {
+    "jogador": "pedra",
+    "bot": "papel",
+    "resultado": "bot",
+    "data": "2025-12-09T11:44:23.529Z"
+  },
+  {
+    "jogador": "tesoura",
+    "bot": "tesoura",
+    "resultado": "empate",
+    "data": "2025-12-09T11:44:36.057Z"
+  },
+  {
+    "jogador": "tesoura",
+    "bot": "papel",
+    "resultado": "jogador",
+    "data": "2025-12-09T11:44:39.749Z"
+  }
+]
